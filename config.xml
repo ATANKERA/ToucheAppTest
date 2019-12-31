@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.ATANKERA.Touche"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Touche</name>
+
+  <description>
+      Touche is a Fencing Simulator Game for 1 or 2 players.
+  </description>
+
+  <author href="https://ATANKERA.weebly.com" email="support@phonegap.com">
+      Aditya Singhal
+  </author>
+
+  <icon src='icon.png' />
+
+</widget>
